@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=gUggKEVLSeg
 
 #### 2: Select the Files (If you clicked Open File)
 
-![Alt text](/images/git2-2.png?raw=true "Optional Title")
+![Alt text](/images/git2-1.png?raw=true "Optional Title")
 
 #### 3: Click on one file from the list shown in the box
 
