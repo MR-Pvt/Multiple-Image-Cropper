@@ -5,6 +5,10 @@ In this tutorial i will demonstrate how to crop multiple images via MR Cropper w
 
 https://www.youtube.com/watch?v=gUggKEVLSeg
 
+### If you want to achieve your desirable software like this then visit our fiverr account::
+
+https://www.fiverr.com/share/yWNYYV
+
 ### Steps After Installing and Opening The ( MR Multiple Image Cropping Bot )
 
 #### 1: Click The Open File button: (if the files are in different directory)
