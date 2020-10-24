@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=gUggKEVLSeg
 ![Alt text](/images/git1.png?raw=true "Optional Title")
 
 #### OR
-1: Click The open File Folder Button: (if the files are in one directory)
+#### 1: Click The open File Folder Button: (if the files are in one directory)
 
 ![Alt text](/images/git1-1.png?raw=true "Optional Title")
 
