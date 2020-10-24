@@ -12,24 +12,24 @@ https://www.youtube.com/watch?v=gUggKEVLSeg
 ![Alt text](/images/git1.png?raw=true "Optional Title")
 
 #### OR
-#### 1: Click The open File Folder Button: (if the files are in one directory)
+#### 1: Click The Open Folder Button: (if the files are in one directory)
 
 ![Alt text](/images/git1-1.png?raw=true "Optional Title")
 
 #### 2: Select the Directory (If you clicked Open Folder) 
 
-![Alt text](/images/git2.png?raw=true "Optional Title")
+![Alt text](/images/git2-1.png?raw=true "Optional Title")
 #### OR
 
 #### 2: Select the Files (If you clicked Open File)
 
-![Alt text](/images/git2-1.png?raw=true "Optional Title")
+![Alt text](/images/git2.png?raw=true "Optional Title")
 
 #### 3: Click on one file from the list shown in the box
 
 ![Alt text](/images/git3.png?raw=true "Optional Title")
 
-#### 4: Crop the area in the image previewer
+#### 4: Crop the area by making a rectangle over the image by mouse(left click) in the image previewer
 
 ![Alt text](/images/git4.png?raw=true "Optional Title")
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=gUggKEVLSeg
 
 ![Alt text](/images/git7.png?raw=true "Optional Title")
 
-#### 8: Click ok Your images are cropped
+#### 8: Click Ok And Your images are cropped
 
 ![Alt text](/images/git8.png?raw=true "Optional Title")
 
