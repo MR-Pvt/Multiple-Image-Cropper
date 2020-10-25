@@ -54,10 +54,9 @@ https://www.fiverr.com/share/yWNYYV
 ![Alt text](/images/git8.png?raw=true "Optional Title")
 
 
-if you wants to know the password of setup file then subscribe our youtube for our motivation because this software is free for you. So subscribe our youtube channel and ####comment us your email id for password, the channel link is given below
+if you wants to know the password of setup file then subscribe our youtube for our motivation because this software is free for you. So subscribe our youtube channel and comment us your email id for password, the channel link is given below
 
-UCqo_O39Ndf2rOF5SS-l-aMw
-
+https://www.youtube.com/watch?v=NcjzVJkTvUE
 
 #### for more details visite our website, the link is given below
 https://mrpvt.blogspot.com/
