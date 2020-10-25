@@ -1,9 +1,12 @@
 # Multiple-Image-Cropper
 In this tutorial i will demonstrate how to crop multiple images via MR Cropper which is based on Python programming language and created by Tkinter 
 
-### First watch the video to install this software 
+### First watch the video to download and install this software 
 
 https://www.youtube.com/watch?v=NcjzVJkTvUE
+
+### Second watch the video to know the working of the software:
+https://www.youtube.com/watch?v=HfaaPyAI2Kc&t=55s
 
 ### If you want to achieve your desirable software like this then visit our fiverr account::
 
