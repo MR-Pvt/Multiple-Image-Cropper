@@ -3,7 +3,7 @@ In this tutorial i will demonstrate how to crop multiple images via MR Cropper w
 
 ### First watch the video to install this software 
 
-is in process
+https://www.youtube.com/watch?v=NcjzVJkTvUE
 
 ### If you want to achieve your desirable software like this then visit our fiverr account::
 
