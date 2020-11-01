@@ -5,6 +5,8 @@ In this tutorial i will demonstrate how to crop multiple images via MR Cropper w
 
 https://www.youtube.com/watch?v=NcjzVJkTvUE
 
+password of software: 723290987
+
 ### Second watch the video to know the working of the software:
 https://www.youtube.com/watch?v=HfaaPyAI2Kc&t=55s
 
